@@ -49,4 +49,4 @@ I used **5-Fold Cross-Validation** with **RMSE (Root Mean Squared Error)** as th
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Coder-Adi12/House-Price-Predicrtion.git](https://github.com/Coder-Adi12/House-Price-Predicrtion.git)
+   git clone [https://github.com/Coder-Adi12/House-Price-Predicrtion.git]
