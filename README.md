@@ -11,7 +11,7 @@ Using advanced regression techniques (**Lasso, Ridge, and ElasticNet**), I achie
 
 ## 📂 Dataset
 The dataset comes from the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition.
-**Train.csv:** 1460 rows, 81 columns (Features + Target)
+* **Train.csv:** 1460 rows, 81 columns (Features + Target)
 * **Test.csv:** 1459 rows, 80 columns (Features only)
 
 ## 🛠️ Key Technical Steps
@@ -49,4 +49,4 @@ I used **5-Fold Cross-Validation** with **RMSE (Root Mean Squared Error)** as th
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/House-Price-Prediction.git](https://github.com/YourUsername/House-Price-Prediction.git)
+   git clone [https://github.com/Coder-Adi12/House-Price-Predicrtion.git](https://github.com/Coder-Adi12/House-Price-Predicrtion.git)
